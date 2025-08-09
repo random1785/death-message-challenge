@@ -1,0 +1,2 @@
+execute as @e[tag=score,scores={reroll=1..}] run execute as @a[scores={reroll=1..}] run function a:zzzrerollcheckone
+execute as @e[tag=score,scores={reroll=0}] run execute as @a[scores={reroll=1..}] run function a:zzzrerollcheckzero
