@@ -1,0 +1,202 @@
+[
+  {
+    "name": "aa",
+    "untranslated_regex": "death.attack.anvil"
+  },
+  {
+    "name": "ab",
+    "untranslated_regex": "death.attack.arrow"
+  },
+  {
+    "name": "ac",
+    "untranslated_regex": "death.attack.badRespawnPoint.message"
+  },
+  {
+    "name": "ad",
+    "untranslated_regex": "death.attack.cactus"
+  },
+  {
+    "name": "ae",
+    "untranslated_regex": "death.attack.cactus.player"
+  },
+  {
+    "name": "af",
+    "untranslated_regex": "death.attack.cramming"
+  },
+  {
+    "name": "ag",
+    "untranslated_regex": "death.attack.cramming.player"
+  },
+  {
+    "name": "ah",
+    "untranslated_regex": "death.attack.drown"
+  },
+  {
+    "name": "ai",
+    "untranslated_regex": "death.attack.drown.player"
+  },
+  {
+    "name": "aj",
+    "untranslated_regex": "death.attack.explosion"
+  },
+  {
+    "name": "ak",
+    "untranslated_regex": "death.attack.explosion.player"
+  },
+  {
+    "name": "al",
+    "untranslated_regex": "death.attack.fall"
+  },
+  {
+    "name": "am",
+    "untranslated_regex": "death.attack.fall.player"
+  },
+  {
+    "name": "an",
+    "untranslated_regex": "death.attack.fallingStalactite"
+  },
+  {
+    "name": "ao",
+    "untranslated_regex": "death.attack.fireball"
+  },
+  {
+    "name": "ap",
+    "untranslated_regex": "death.attack.fireworks"
+  },
+  {
+    "name": "aq",
+    "untranslated_regex": "death.attack.freeze"
+  },
+  {
+    "name": "ar",
+    "untranslated_regex": "death.attack.freeze.player"
+  },
+  {
+    "name": "as",
+    "untranslated_regex": "death.attack.hotFloor"
+  },
+  {
+    "name": "at",
+    "untranslated_regex": "death.attack.hotFloor.player"
+  },
+  {
+    "name": "au",
+    "untranslated_regex": "death.attack.inFire"
+  },
+  {
+    "name": "av",
+    "untranslated_regex": "death.attack.inFire.player"
+  },
+  {
+    "name": "aw",
+    "untranslated_regex": "death.attack.inWall"
+  },
+  {
+    "name": "ax",
+    "untranslated_regex": "death.attack.inWall.player"
+  },
+  {
+    "name": "ay",
+    "untranslated_regex": "death.attack.indirectMagic"
+  },
+  {
+    "name": "az",
+    "untranslated_regex": "death.attack.lava"
+  },
+  {
+    "name": "ba",
+    "untranslated_regex": "death.attack.lava.player"
+  },
+  {
+    "name": "bb",
+    "untranslated_regex": "death.attack.mob"
+  },
+  {
+    "name": "bc",
+    "untranslated_regex": "death.attack.onFire"
+  },
+  {
+    "name": "bd",
+    "untranslated_regex": "death.attack.onFire.player"
+  },
+  {
+    "name": "be",
+    "untranslated_regex": "death.attack.sonic_boom"
+  },
+  {
+    "name": "bf",
+    "untranslated_regex": "death.attack.stalagmite"
+  },
+  {
+    "name": "bg",
+    "untranslated_regex": "death.attack.stalagmite.player"
+  },
+  {
+    "name": "bh",
+    "untranslated_regex": "death.attack.sting"
+  },
+  {
+    "name": "bi",
+    "untranslated_regex": "death.attack.sweetBerryBush"
+  },
+  {
+    "name": "bj",
+    "untranslated_regex": "death.attack.sweetBerryBush.player"
+  },
+  {
+    "name": "bk",
+    "untranslated_regex": "death.attack.thorns"
+  },
+  {
+    "name": "bl",
+    "untranslated_regex": "death.attack.trident"
+  },
+  {
+    "name": "bm",
+    "untranslated_regex": "death.attack.wither"
+  },
+  {
+    "name": "bn",
+    "untranslated_regex": "death.attack.wither.player"
+  },
+  {
+    "name": "bo",
+    "untranslated_regex": "death.fell.accident.generic"
+  },
+  {
+    "name": "bp",
+    "untranslated_regex": "death.fell.accident.ladder"
+  },
+  {
+    "name": "bq",
+    "untranslated_regex": "death.fell.accident.other_climbable"
+  },
+  {
+    "name": "br",
+    "untranslated_regex": "death.fell.accident.scaffolding"
+  },
+  {
+    "name": "bs",
+    "untranslated_regex": "death.fell.accident.twisting_vines"
+  },
+  {
+    "name": "bt",
+    "untranslated_regex": "death.fell.accident.vines"
+  },
+  {
+    "name": "bu",
+    "untranslated_regex": "death.fell.accident.weeping_vines"
+  },
+  {
+    "name": "bv",
+    "untranslated_regex": "death.fell.accident.water"
+  },
+  {
+    "name": "bw",
+    "untranslated_regex": "death.fell.killer"
+  },
+  {
+    "name": "bx",
+    "untranslated_regex": "death.fell.assist"
+  }
+]

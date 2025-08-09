@@ -1,0 +1,1 @@
+tellraw @a {"text":"Death message variables were not set up properly! Please run /reload again.","bold":true,"underlined":true,"color":"dark_red"}
