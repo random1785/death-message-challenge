@@ -198,5 +198,13 @@
   {
     "name": "bx",
     "untranslated_regex": "death.fell.assist"
+  },
+  {
+    "name": "bz",
+    "untranslated_regex": "death.attack.outsideBorder"
+  },
+  {
+    "name": "ca",
+    "untranslated_regex": "death.outsideBorder.player"
   }
 ]
