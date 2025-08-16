@@ -25,6 +25,8 @@ scoreboard players set @e[type=armor_stand,tag=score] remain 43
 tag @e[type=armor_stand,tag=score] add newcheck
 tag @a remove a
 schedule function a:zzzstart1 20t
+schedule function a:zzzcheck 6t
+schedule function a:zzzcheck1 10t
 gamemode survival @a
 scoreboard players set @a health 500
 scoreboard players set @a[scores={spec=-1785}] health -1785
@@ -138,4 +140,5 @@ scoreboard players set @e[type=armor_stand,tag=score] bv 17
 scoreboard players set @e[type=armor_stand,tag=score] bw 17
 scoreboard players set @e[type=armor_stand,tag=score] bx 17
 scoreboard players set @e[type=armor_stand,tag=score] bz 17
+
 scoreboard players set @e[type=armor_stand,tag=score] ca 17
