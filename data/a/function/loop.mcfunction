@@ -32,8 +32,6 @@ execute unless entity @e[limit=1,tag=score,scores={round=1}] positioned 12.79 30
 execute in minecraft:the_nether positioned 11.08 159.00 4.82 run scoreboard players enable @a[distance=..60] notspec
 execute in minecraft:the_nether positioned 11.08 159.00 4.82 run scoreboard players enable @a[distance=..60] spec
 
-
-
 effect give @a[scores={death=18..}] resistance 1 255 true
 effect give @a[scores={death=18..}] mining_fatigue 1 254 true
 execute positioned 12.79 308.35 0.70 run effect give @a[distance=..30] mining_fatigue 1 254 true

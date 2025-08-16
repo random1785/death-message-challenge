@@ -1,6 +1,6 @@
 gamemode spectator @a
 scoreboard players reset @e reroll
-scoreboard players reset @e score
+scoreboard players reset @e[tag=score] score
 scoreboard players reset @e round
 execute as @a at @s run playsound minecraft:ui.toast.challenge_complete master @a ~ ~ ~
 

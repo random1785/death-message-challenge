@@ -1,2 +1,2 @@
-scoreboard objectives add by aa
+scoreboard objectives add zz aa
 schedule clear a:zzzcheck1

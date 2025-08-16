@@ -205,6 +205,6 @@
   },
   {
     "name": "ca",
-    "untranslated_regex": "death.outsideBorder.player"
+    "untranslated_regex": "death.attack.outsideBorder.player"
   }
 ]

@@ -3,6 +3,7 @@ scoreboard players set @a death 1785
 time set 0
 clear @a
 team join a @a
+advancement revoke @a everything
 effect clear @a
 kill @a
 execute as @a at @s run playsound minecraft:block.trial_spawner.ominous_activate
