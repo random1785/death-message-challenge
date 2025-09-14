@@ -5,6 +5,7 @@ Minecraft Datapack (tested on 1.21.5-1.21.8, dunno how far you can downgrade) th
 Constantly moving worldborder <br>
 Mod (FABRIC MOD, REQUIRES FABRIC API AND MUST BE INSTALLED FOR THIS TO WORK) that detects specific ways a player has died<br>
 /trigger reminder to see which deaths are still left<br>
+description of death message available if players hover over it in chat<br>
 Bossbar to show overall progress<br>
 Players have a small score counter of the number of deaths they got for the team<br>
 To make the game less biome dependent, another version is available under modified-biomes
